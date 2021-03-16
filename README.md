@@ -6,4 +6,4 @@ matplotlib
 numpy  
 scipy  
 
-These packages are also listed in the requirements.txt
+These packages are also listed in "requirements.txt".
