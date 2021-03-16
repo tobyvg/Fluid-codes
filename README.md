@@ -8,6 +8,6 @@ scipy
 
 These packages are also listed in "requirements.txt". 
 
-How to use:
+## How to use:
 
 Each of the codes is used by running the "code.ipynb" file using Jupyter Notebook. The reports give a detailed decription of each of the implemented methods. Assignments are not included as these are not mine to distribute. 
